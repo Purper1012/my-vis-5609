@@ -15,7 +15,8 @@
   <h1>Zichen's VIS Site</h1>
   <img
     width="200px"
-    src="https://github.com/Bartel-Group"
+    src="https://carfax-img.vast.com/carfax/v2/675926502145616402/1/344x258?format=webp"
+    alt="Profile"
   />
   <div>
     You can click up to
