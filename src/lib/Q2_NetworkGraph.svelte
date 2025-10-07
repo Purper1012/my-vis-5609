@@ -69,7 +69,7 @@
   }
 
   $effect(() => {
-    if (simulation && nodesData.length > 0) {
+    if (nodesData.length > 0 && nodes.length === 0) {
       nodes = [...nodesData];
       createSimulation();
     }
