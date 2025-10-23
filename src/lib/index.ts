@@ -6,6 +6,8 @@ import Q1_3DRidgeline from './Q1_3DRidgeline.svelte'
 import Q2_Heatmap from './Q2_Heatmap.svelte'
 import Q2_NetworkGraph from './Q2_NetworkGraph.svelte'
 import Q2_InteractiveBar from './Q2_InteractiveBar.svelte'
+import Scatter from './Scatter.svelte'
+import Line from './Line.svelte'
 
 export {
   Bar,
@@ -15,5 +17,7 @@ export {
   Q1_3DRidgeline,
   Q2_Heatmap,
   Q2_NetworkGraph,
-  Q2_InteractiveBar
+  Q2_InteractiveBar,
+  Scatter,
+  Line
 }
